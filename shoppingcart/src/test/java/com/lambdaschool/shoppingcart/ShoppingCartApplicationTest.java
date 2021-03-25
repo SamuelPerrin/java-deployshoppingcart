@@ -16,7 +16,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @EnableWebMvc
 // @EnableJpaAuditing
 @SpringBootApplication
-public class ShoppingCartApplication
+public class ShoppingCartApplicationTest
 {
     private static final Logger logger = LoggerFactory.getLogger(com.lambdaschool.shoppingcart.ShoppingCartApplication.class);
 
